@@ -1,0 +1,65 @@
+[
+  {
+    "isim": "Havuç",
+    "kalori": "41 Kalori",
+    "karbonhidrat": "10 gram",
+    "protein": "0.9 gram",
+    "yag": "0.2 gram"
+  },
+  {
+    "isim": "Domates",
+    "kalori": "18 Kalori",
+    "karbonhidrat": "3.9 gram",
+    "protein": "0.9 gram",
+    "yag": "0.2 gram"
+  },
+  {
+    "isim": "Salatalık",
+    "kalori": "16 Kalori",
+    "karbonhidrat": "3.6 gram",
+    "protein": "0.7 gram",
+    "yag": "0.1 gram"
+  },
+  {
+    "isim": "Biber",
+    "kalori": "20 Kalori",
+    "karbonhidrat": "4.7 gram",
+    "protein": "0.9 gram",
+    "yag": "0.2 gram"
+  },
+  {
+    "isim": "Patates",
+    "kalori": "77 Kalori",
+    "karbonhidrat": "17 gram",
+    "protein": "2 gram",
+    "yag": "0.1 gram"
+  },
+  {
+    "isim": "Kabak",
+    "kalori": "17 Kalori",
+    "karbonhidrat": "3.1 gram",
+    "protein": "1.2 gram",
+    "yag": "0.2 gram"
+  },
+  {
+    "isim": "Ispanak",
+    "kalori": "23 Kalori",
+    "karbonhidrat": "3.6 gram",
+    "protein": "2.9 gram",
+    "yag": "0.4 gram"
+  },
+  {
+    "isim": "Brokoli",
+    "kalori": "34 Kalori",
+    "karbonhidrat": "7 gram",
+    "protein": "2.8 gram",
+    "yag": "0.4 gram"
+  },
+  {
+    "isim": "Karnabahar",
+    "kalori": "25 Kalori",
+    "karbonhidrat": "5 gram",
+    "protein": "2 gram",
+    "yag": "0.3 gram"
+  }
+]
